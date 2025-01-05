@@ -354,7 +354,7 @@ namespace Match3
             Console.WriteLine( "Number joystick connected : "+ Controller.NumJoystick());
 
             // Load GamePad Setup from file
-            //LoadGamePadSetupFromFile(_pathGamePadSetup);
+            LoadGamePadSetupFromFile(_pathGamePadSetup);
 
         }
 
